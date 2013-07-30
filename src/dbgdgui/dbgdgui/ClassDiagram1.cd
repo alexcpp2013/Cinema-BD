@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="dbgdgui.FormGoldenDragon">
+    <Position X="6.25" Y="2.5" Width="6" />
+    <AssociationLine Name="comboBoxTimeSeance" Type="System.Windows.Forms.ComboBox" ManuallyRouted="true">
+      <Path>
+        <Point X="12.25" Y="6.815" />
+        <Point X="12.375" Y="6.815" />
+        <Point X="12.375" Y="6.565" />
+        <Point X="13" Y="6.565" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAABgAkECCACABAAAUCAAAACgCQQABDBAChAQAACBkA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="MyConnection" />
+      <Field Name="toolStripSeparator1" />
+      <Field Name="buttonEscape" />
+      <Field Name="dataGridViewTicketsSold" />
+      <Field Name="comboBoxTimeSeance" />
+      <Field Name="label1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="dbgdgui.Program">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Button" Collapsed="true">
+    <Position X="13" Y="7.25" Width="1.25" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Forms.ComboBox" Collapsed="true">
+    <Position X="13" Y="6.25" Width="1.25" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.DataGridView" Collapsed="true">
+    <Position X="13" Y="5.25" Width="1.25" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Forms.Label" Collapsed="true">
+    <Position X="13" Y="4.25" Width="1.25" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="MySql.Data.MySqlClient.MySqlConnection">
+    <Position X="0.5" Y="2.25" Width="4.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Forms.ToolStripSeparator" Collapsed="true">
+    <Position X="13" Y="3.25" Width="1.25" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
